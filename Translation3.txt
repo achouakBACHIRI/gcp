@@ -1,0 +1,18 @@
+#Course: Google Cloud Fundamentals for Azure Professionals
+#LAB: GCP Fundamentals: Getting Started with Cloud Marketplace - Windows 
+ 
+#objective:
+      
+   - Launch a solution using Google Cloud Marketplace
+
+#steps:
+1-Launch a solution using Google Cloud Marketplace:
+
+   gcloud compute Marketplace 
+   1-1 type  Wordpress
+   1-2  click Secured Wordpress on Windows Server 2012 R2
+   gcloud compute --Launch-Compute-Engine
+   1-3 Click Deploy
+   1-4 If a Welcome to Deployment Manager message appears, click Close to dismiss it.
+   After the software is installed, a summary of the details for the instance, including the site address, is displayed.
+  
